@@ -1,0 +1,6 @@
+Cython
+pandas
+python-louvain
+scikit-learn
+xgboost
+scipy
