@@ -8,7 +8,7 @@ install_requires = [req for req in install_requires if not "+" in req]
 
 setup(
     name='syml',
-    version='0.2.dev',
+    version='0.2',
     packages=['syml'],
     install_requires=install_requires,
     dependency_links=dependency_links
